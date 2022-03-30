@@ -208,6 +208,13 @@ It becomes even more obvious when the change is not as straightforward as knowin
 </TabItem>
 
 <TabItem value="windows">
+ 
+If you have [scoop](https://scoop.sh) installed, you can install `dagger` with one command.
+From a powershell terminal run:
+
+```shell
+scoop install dagger
+```
 
 We assume that you have [curl](https://curl.se/windows/) installed.
 If you do, you can install `dagger` with a few commands. From a powershell terminal, run:
